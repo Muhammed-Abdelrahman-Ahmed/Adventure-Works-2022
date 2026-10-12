@@ -1,6 +1,10 @@
 # Adventure Works 2022 Data Analysis & Dashboards
 A complete Excel data analysis project using the Adventure Works 2022 dataset (7 files).
 
+### 📅 Project Timeline
+* **Development Period:** October 2026 .
+* **Note:** This project was developed locally and later migrated to GitHub .
+
 This project is an in-depth data analysis built in Microsoft Excel, using the Adventure Works 2022 dataset. The dataset was spread across 7 different files, requiring robust data preparation before building out the final visualizations. The end result is a dual-dashboard setup tailored to different analytical needs.
 
 ## Tools I Used
